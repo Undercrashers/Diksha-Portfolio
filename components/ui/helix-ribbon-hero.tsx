@@ -155,7 +155,7 @@ export default function HelixRibbonHero({
   count = "( 12 projects )",
   bio = "Diksha is a creative exploring thoughtful design, striking imagery and meaningful digital experiences.",
   scrollHint = "Scroll down",
-  background = "#f3eee5",
+  background = "#ffffff",
   foreground = "#211f1b",
   autoPlay = false,
   fontHref = FONT_HREF,

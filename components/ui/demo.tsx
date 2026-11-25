@@ -53,7 +53,7 @@ const links = [
 
 export default function Demo() {
   return (
-    <main className="w-full bg-[#f3eee5] text-[#211f1b]">
+    <main className="w-full bg-white text-[#211f1b]">
       <HelixRibbonHero
         autoPlay
         portrait="/profile_photo.jpg"
@@ -65,7 +65,7 @@ export default function Demo() {
         bio="Diksha is a fashion design student at NIFT Srinagar, exploring expressive silhouettes, materiality and stories told through clothing."
         links={links}
         cta={{ label: "Let's connect", href: "#contact" }}
-        background="#f3eee5"
+        background="#ffffff"
         foreground="#211f1b"
       />
 
